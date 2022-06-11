@@ -1,0 +1,7 @@
+<map id="CRepeat" name="CRepeat">
+<area shape="rect" id="node1" title=" " alt="" coords="283,5,361,32"/>
+<area shape="rect" id="node2" href="$classCRepeatDaily.html" title=" " alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node3" href="$classCRepeatEveryWeekday.html" title=" " alt="" coords="140,80,315,107"/>
+<area shape="rect" id="node4" href="$classCRepeatOnceAWeek.html" title=" " alt="" coords="339,80,494,107"/>
+<area shape="rect" id="node5" href="$classCRepeatOnceTwoWeeks.html" title=" " alt="" coords="518,80,697,107"/>
+</map>
