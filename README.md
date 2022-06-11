@@ -1,1 +1,1 @@
-# Calendar-CLI
+# Calendar
