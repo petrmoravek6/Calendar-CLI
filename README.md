@@ -1,5 +1,5 @@
 # Kalendář
-CLI Aplikace pro správu kalendáře s možností vytvářet události a jejich hledání.
+CLI Aplikace pro správu kalendáře s možností vytváření událostí a jejich hledání.
 
 ## Funkcionality
 - Denní, týdenní a měsíční zobrazení kalendáře
